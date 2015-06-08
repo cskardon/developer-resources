@@ -77,3 +77,7 @@ language-guides/dotnet/Neo4jDotNetDemo/Properties/PublishProfiles/neo4jmoviedemo
 language-guides/dotnet/Neo4jDotNetDemo/Properties/PublishProfiles/neo4jmoviedemo.pubxml.user
 language-guides/dotnet/neo4jclient/Neo4jDotNetDemo.userprefs
 language-guides/dotnet/neo4jclient/packages/
+language-guides/dotnet/neo4jclient/_Resharper.*/
+language-guides/dotnet/neo4jclient/.vs/
+language-guides/dotnet/neo4jclient/*.GhostDoc.xml
+language-guides/dotnet/neo4jclient/*.suo
